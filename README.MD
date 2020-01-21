@@ -1,4 +1,4 @@
-# RESTFUL API
+# RESTFUL SHOP API
 
 This is a simple restful shop api that has products, users and orders.
 
