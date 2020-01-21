@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Moremingitu@22",
+        "JWT_KEY": "Moremingitu@22",
+        "PORT": "process.env.PORT || 3000"
+    }
+}
